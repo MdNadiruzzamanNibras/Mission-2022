@@ -3,6 +3,14 @@ h1{font-size: 50px;}
 .half-width{display: 50%;
 padding: 5%;}
 .half-width img{width: 365px;}
-section{display: flex;}
-.top-border{border-left: 5px solid;
+.flexible{display: flex;}
+.top-border{border-left: 5px solid rgb(221, 46, 46);
 padding: 2%;}
+.link-button{text-decoration: none;
+background-image: linear-gradient(orange, tomato);
+padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;}
+.center{text-align: center;}
+.mission{display: flex;}
