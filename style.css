@@ -1,7 +1,11 @@
-body{font-family: 'Poppins', sans-serif;
+body{font-family: 'Roboto', sans-serif;
 margin: 0;}
-h1{font-size: 70px;
-font-weight:bolder;}
+h1{font-size: 80px;
+font-weight: 500;
+font-family: 'Yeseva One', cursive;}
+h2{font-size: 60px;}
+h3{font-size: 40px;}
+h4{font-size: 30px;}
 .orange{color:#f5a106;}
 p{font-size: 20px;}
 .half-width{display: 50%;
@@ -33,9 +37,14 @@ padding: 10px 40px;
 #obwhite{background-color: wheat;}
 #purpule{background-color: plum;}
 .center{text-align: center;}
-footer{background-color: black;}
+#aware{margin-left: 25%;
+margin-right: 15%;}
+#distence{padding-left: 20%;}
+footer{background-color: black;
+    height: 300px;}
 footer h1{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
-footer{height: 200px;}
-footer h1{font-family: 'The Nautigal', cursive;
+footer font{color:rgb(22, 230, 178);}
+footer h1{font-family: 'Lobster', cursive;
 padding-top: 50px;
-padding-bottom: 5px;}
+padding-bottom: 0;} 
+footer p{color: rgba(35, 163, 163, 0.685);}
