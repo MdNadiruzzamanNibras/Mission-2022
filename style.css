@@ -33,6 +33,13 @@ padding: 10px 40px;
        box-sizing: content-box;
        text-align: justify;
     }
+#delop-no-limits{background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+background-size: 20%;}
+#golbal{background-image: url(images/shapes/shape-1.png);
+   background-position: right;}
+#margin{padding-left: 10%;}
 #olive{background-color: cadetblue;}
 #obwhite{background-color: wheat;}
 #purpule{background-color: plum;}
